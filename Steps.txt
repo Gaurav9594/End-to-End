@@ -4,3 +4,5 @@ AGENDA
     a. New Environment
     b. Mini Project Structure setup.py
     c. requirements.txt
+
+2. Src Folder and build the package
