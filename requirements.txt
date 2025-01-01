@@ -4,6 +4,8 @@ seaborn
 matplotlib
 scikit-learn
 dill  # Or any compatible version you are using
+catboost
+xgboost
 
 # -e .
 # This will directly trigger setup.py to run
